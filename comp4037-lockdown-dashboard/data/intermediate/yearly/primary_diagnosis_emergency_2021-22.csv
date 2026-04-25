@@ -1,0 +1,216 @@
+code,description,emergency,year
+A00-A09,Intestinal infectious diseases,100034.0,2021-22
+A15-A19,Tuberculosis,1366.0,2021-22
+A20-A28,Certain zoonotic bacterial diseases,99.0,2021-22
+A30-A49,Other bacterial diseases,110063.0,2021-22
+A50-A64,Infections with a predominantly sexual mode of transmission,725.0,2021-22
+A65-A69,Other spirochaetal diseases,191.0,2021-22
+A70-A74,Other diseases caused by chlamydiae,42.0,2021-22
+A75-A79,Rickettsioses,7.0,2021-22
+A80-A89,Viral infections of the central nervous system,2115.0,2021-22
+A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers,60.0,2021-22
+B00-B09,Viral infections characterized by skin & mucous mem. lesns.,9212.0,2021-22
+B15-B19,Viral hepatitis,1358.0,2021-22
+B20-B24,Human immunodeficiency virus [HIV] disease,643.0,2021-22
+B25-B34,Other viral diseases,96977.0,2021-22
+B35-B49,Mycoses,3096.0,2021-22
+B50-B64,Protozoal diseases,1285.0,2021-22
+B65-B83,Helminthiases,236.0,2021-22
+B85-B89,"Pediculosis, acariasis and other infestations",194.0,2021-22
+B95-B98,"Bacterial, viral and other infectious agents",2.0,2021-22
+B99-B99,Other infectious and parasitic diseases,7477.0,2021-22
+C00-C14,Malignant neoplasm of lip-oral cavity and pharynx,2539.0,2021-22
+C15-C26,Malignant neoplasm of digestive organs,30000.0,2021-22
+C30-C39,Malignant neoplasms of respiratory & intrathoracic organs,14595.0,2021-22
+C40-C41,Malignant neoplasm of bone and articular cartilage,640.0,2021-22
+C43-C44,Malignant neoplasms of skin,1592.0,2021-22
+C45-C49,Malignant neoplasms of mesothelial and soft tissue,2351.0,2021-22
+C50-C50,Malignant neoplasm of breast,4166.0,2021-22
+C51-C58,Malignant neoplasms of female genital organs,5181.0,2021-22
+C60-C63,Malignant neoplasms of male genital organs,5071.0,2021-22
+C64-C68,Malignant neoplasms of urinary tract,5966.0,2021-22
+C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS",4742.0,2021-22
+C73-C75,Malignant neoplasms of thyroid and other endocrine glands,628.0,2021-22
+C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites",30434.0,2021-22
+C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss.",20188.0,2021-22
+C97-C97,Malignant neoplasms of independent (primary) multiple sites,666.0,2021-22
+D00-D09,In situ neoplasms,169.0,2021-22
+D10-D36,Benign neoplasms,9607.0,2021-22
+D37-D48,Neoplasms of uncertain or unknown behaviour,7102.0,2021-22
+D50-D53,Nutritional anaemias,41128.0,2021-22
+D55-D59,Haemolytic anaemias,12884.0,2021-22
+D60-D64,Aplastic and other anaemias,27551.0,2021-22
+D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",8002.0,2021-22
+D70-D77,Other diseases of blood and blood-forming organs,6142.0,2021-22
+D80-D89,Certain disorders involving the immune mechanism,1152.0,2021-22
+E00-E07,Disorders of thyroid gland,4172.0,2021-22
+E10-E14,Diabetes Mellitus,54215.0,2021-22
+E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,13099.0,2021-22
+E20-E35,Disorders of other endocrine glands,5967.0,2021-22
+E40-E46,Malnutrition,714.0,2021-22
+E50-E64,Other nutritional deficiencies,2173.0,2021-22
+E65-E68,Obesity and other hyperalimentation,674.0,2021-22
+E70-E90,Metabolic disorders,80294.0,2021-22
+F00-F09,"Organic, including symptomatic, mental disorders",34584.0,2021-22
+F10-F19,Mental and behavioural disorders due to psychoactive subst.,43128.0,2021-22
+F20-F29,"Schizophrenia, schizotypal and delusional disorders",13439.0,2021-22
+F30-F39,Mood [affective] disorders,12506.0,2021-22
+F40-F48,"Neurotic, stress-related and somatoform disorders",18016.0,2021-22
+F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors,4884.0,2021-22
+F60-F69,Disorders of adult personality and behaviour,4780.0,2021-22
+F70-F79,Mental retardation,166.0,2021-22
+F80-F89,Disorders of psychological development,821.0,2021-22
+F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,962.0,2021-22
+F99-F99,Unspecified mental disorder,368.0,2021-22
+G00-G09,Inflammatory diseases of the central nervous system,4935.0,2021-22
+G10-G14,Systemic atrophies primarily affecting the central nervous system,1189.0,2021-22
+G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).,6346.0,2021-22
+G30-G32,Other degenerative diseases (incl. Alzheimer).,5030.0,2021-22
+G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.,2891.0,2021-22
+G40-G47,Episodic and paroxysmal disorders,87323.0,2021-22
+G50-G59,"Nerve, nerve root and plexus disorders",7831.0,2021-22
+G60-G64,Polyneuropathies and other disorders of the peripheral nervous system,3093.0,2021-22
+G70-G73,Diseases of myoneural junction and muscle,1489.0,2021-22
+G80-G83,Cerebral palsy & other paralytic syndromes,4216.0,2021-22
+G90-G99,Other diseases & disorders of the nervous syst.,13229.0,2021-22
+H00-H06,"Disorders of eyelid, lacrimal system and orbit",5285.0,2021-22
+H10-H13,Disorders of conjunctiva (including conjunctivitis),1545.0,2021-22
+H15-H22,"Disorders of sclera, cornea, iris and ciliary body",1680.0,2021-22
+H25-H28,Disorders of lens (including cataracts),480.0,2021-22
+H30-H36,Disorders of choroid and retina,6490.0,2021-22
+H40-H42,Glaucoma,862.0,2021-22
+H43-H45,Disorders of vitreous body and globe,1186.0,2021-22
+H46-H48,Disorders of optic nerve and visual pathways,2757.0,2021-22
+H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",1394.0,2021-22
+H53-H54,Visual disturbances and blindness,6249.0,2021-22
+H55-H59,Other disorders of eye and adnexa,2048.0,2021-22
+H60-H62,Diseases of external ear,8096.0,2021-22
+H65-H75,Diseases of middle ear and mastoid,7432.0,2021-22
+H80-H83,Diseases of inner ear,11126.0,2021-22
+H90-H95,Other disorders of ear,2999.0,2021-22
+I00-I02,Acute rheumatic fever,34.0,2021-22
+I05-I09,Chronic rheumatic heart diseases,2306.0,2021-22
+I10-I15,Hypertensive diseases,32088.0,2021-22
+I20-I25,Ischaemic heart diseases,137953.0,2021-22
+I26-I28,Pulmonary heart disease & diseases of pulmonary circulation,36418.0,2021-22
+I30-I52,Other forms of heart disease,214242.0,2021-22
+I60-I69,Cerebrovascular diseases,99497.0,2021-22
+I70-I79,"Diseases of arteries, arterioles & capillaries",23281.0,2021-22
+I80-I89,Diseases of veins & lymphatic system nec.,72061.0,2021-22
+I95-I99,Other & unspecified disorders of the circulatory system,1403.0,2021-22
+J00-J06,Acute upper respiratory infections,98285.0,2021-22
+J09-J18,Influenza & pneumonia,184907.0,2021-22
+J20-J22,Other acute lower respiratory infections,136990.0,2021-22
+J30-J39,Other diseases of upper respiratory tract,14942.0,2021-22
+J40-J47,Chronic lower respiratory diseases,160044.0,2021-22
+J60-J70,Lung diseases due to external agents,26899.0,2021-22
+J80-J84,Other respiratory diseases principally affecting the interstitium,9808.0,2021-22
+J85-J86,Suppurative and necrotic conditions of lower respiratory tract,2597.0,2021-22
+J90-J94,Other diseases of pleura,21610.0,2021-22
+J95-J99,Other diseases of the respiratory system,14819.0,2021-22
+K00-K14,"Diseases of oral cavity, salivary glands & jaws",19340.0,2021-22
+K20-K31,"Diseases of oesophagus, stomach & duodenum",67532.0,2021-22
+K35-K38,Diseases of appendix,46297.0,2021-22
+K40-K46,Hernia,32804.0,2021-22
+K50-K52,Noninfective enteritis & colitis,29438.0,2021-22
+K55-K64,Other diseases of intestines,167595.0,2021-22
+K65-K67,Diseases of peritoneum,5358.0,2021-22
+K70-K77,Diseases of liver,30315.0,2021-22
+K80-K87,"Disorders of gall bladder, biliary tract & pancreas",125599.0,2021-22
+K90-K93,Other diseases of the digestive system,62936.0,2021-22
+L00-L08,Infections of the skin and subcutaneous tissue,131221.0,2021-22
+L10-L14,Bullous disorders,752.0,2021-22
+L20-L30,Dermatitis and eczema,8411.0,2021-22
+L40-L45,Papulosquamous disorders (including Psoriasis),1162.0,2021-22
+L50-L54,Urticaria and erythems,5069.0,2021-22
+L55-L59,Radiation-related disorders of the skin and subcutaneous tissue,311.0,2021-22
+L60-L75,Disorders of skin appendages,14175.0,2021-22
+L80-L99,Other disorders of the skin and subcutaneous tissue,16898.0,2021-22
+M00-M25,Arthropathies,69638.0,2021-22
+M30-M36,Systemic connective tissue disorders,4973.0,2021-22
+M40-M54,Dorsopathies,87306.0,2021-22
+M60-M79,Soft tissue disorders,112296.0,2021-22
+M80-M94,Osteopathies and chondropathies,25432.0,2021-22
+M95-M99,Other disorders of the musculoskeletal system & conn. tiss.,6684.0,2021-22
+N00-N08,Glomerular diseases,3308.0,2021-22
+N10-N16,Renal tubulo-interstitial diseases,54963.0,2021-22
+N17-N19,Renal failure,59755.0,2021-22
+N20-N23,Urolithiasis,28739.0,2021-22
+N25-N29,Other disorders of kidney & ureter,1881.0,2021-22
+N30-N39,Other diseases of the urinary system,136330.0,2021-22
+N40-N51,Diseases of male genital organs,43025.0,2021-22
+N60-N64,Disorders of breast,6545.0,2021-22
+N70-N77,Inflammatory diseases of female pelvic organs,13866.0,2021-22
+N80-N98,Noninflammatory disorders of female genital tract,40721.0,2021-22
+N99,Other disorders of the genitourinary system,1886.0,2021-22
+O00-O08,Pregnancy with abortive outcome,47594.0,2021-22
+O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",930.0,2021-22
+O20-O29,Other maternal disorders predominantly related to pregnancy,71421.0,2021-22
+O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,5770.0,2021-22
+O60-O75,Complications of labour and delivery,3904.0,2021-22
+O80-O84,Delivery,206.0,2021-22
+O85-O92,Complications predominantly related to the puerperium,3444.0,2021-22
+O94-O99,"Other obstetric conditions, not elsewhere classified",4824.0,2021-22
+P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",1.0,2021-22
+P05-P08,Disorders related to length of gestation and fetal growth,1236.0,2021-22
+P10-P15,Birth trauma,594.0,2021-22
+P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,6734.0,2021-22
+P35-P39,Infections specific to the perinatal period,5495.0,2021-22
+P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,21531.0,2021-22
+P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn,555.0,2021-22
+P75-P78,Digestive system disorders of fetus and newborn,3479.0,2021-22
+P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn,1803.0,2021-22
+P90-P96,Other disorders originating in the perinatal period,8876.0,2021-22
+Q00-Q07,Congenital malformations of the nervous system,620.0,2021-22
+Q10-Q18,"Congenital malformations of eye, ear, face and neck",343.0,2021-22
+Q20-Q28,Congenital malformations of the circulatory system,1924.0,2021-22
+Q30-Q34,Congenital malformations of the respiratory system,1035.0,2021-22
+Q35-Q37,Cleft lip and cleft palate,60.0,2021-22
+Q38-Q45,Other congenital malformations of the digestive system,2276.0,2021-22
+Q50-Q56,Congenital malformations of genital organs,2002.0,2021-22
+Q60-Q64,Congenital malformations of the urinary system,577.0,2021-22
+Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,865.0,2021-22
+Q80-Q89,Other congenital malformations,657.0,2021-22
+Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",104.0,2021-22
+R00-R09,Symptoms & signs inv. the circulatory/respiratory system,382327.0,2021-22
+R10-R19,Symptoms & signs inv. the digestive system & abdomen,278493.0,2021-22
+R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue,29807.0,2021-22
+R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.,102952.0,2021-22
+R30-R39,Symptoms & signs involving the urinary system,48073.0,2021-22
+R40-R46,Symptoms & signs inv. Cognition perception etc.,71748.0,2021-22
+R47-R49,Symptoms & signs inv. speech & voice,6559.0,2021-22
+R50-R69,General symptoms & signs,294061.0,2021-22
+R70-R79,"Abnormal findings on examination of blood, without diagnosis",8954.0,2021-22
+R80-R82,"Abnormal findings on examination of urine, without diagnosis",482.0,2021-22
+R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",176.0,2021-22
+R90-R94,Abnormal findings on diagnostic imaging/function studies,12108.0,2021-22
+R95-R99,Ill-defined & unknown causes of mortality,3.0,2021-22
+S00-S09,Injuries to the head,137964.0,2021-22
+S10-S19,Injuries to the neck,8718.0,2021-22
+S20-S29,Injuries to the thorax,31050.0,2021-22
+S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis",38368.0,2021-22
+S40-S49,Injuries to the shoulder & upper arm,35018.0,2021-22
+S50-S59,Injuries to the elbow & forearm,44396.0,2021-22
+S60-S69,Injuries to the wrist & hand,47580.0,2021-22
+S70-S79,Injuries to the hip & thigh,80613.0,2021-22
+S80-S89,Injuries to the knee & lower leg,62630.0,2021-22
+S90-S99,Injuries to the ankle & foot,12722.0,2021-22
+T00-T07,Injuries involving multiple body regions,3738.0,2021-22
+T08-T14,Injuries to unspecified part of trunk limb or body,1161.0,2021-22
+T15-T19,Effects of foreign body entering through natural orifice,14981.0,2021-22
+T20-T32,Burns and corrosions,8356.0,2021-22
+T33-T35,Frostbite,22.0,2021-22
+T36-T50,Poisonings by drugs medicaments & biological substances,95195.0,2021-22
+T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source,4404.0,2021-22
+T66-T78,Other and unspecified effects of external causes,12592.0,2021-22
+T79-T79,Certain early complications of trauma,3156.0,2021-22
+T80-T88,Complications of surgical & medical care nec.,123669.0,2021-22
+U00-U49,Provisional assignment of new diseases of uncertain etiology,137026.0,2021-22
+U82-U85,Resistance to antimicrobial and antineoplastic drugs,1.0,2021-22
+Z00-Z13,Examination and investigation,25876.0,2021-22
+Z20-Z29,Potential health hazards related to communicable diseases,442.0,2021-22
+Z30-Z39,Health services in circumstances related to reproduction,5282.0,2021-22
+Z40-Z54,Persons encountering health services for specific care,11838.0,2021-22
+Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l,611.0,2021-22
+Z70-Z76,Persons encountering health services in other circs.,5873.0,2021-22
+Z80-Z99,Persons with potential health hazards related to family,170.0,2021-22

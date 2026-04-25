@@ -1,0 +1,280 @@
+{
+  "title": "Which Admission Categories Shifted Most During the 2020-21 Lockdown?",
+  "metric": "Emergency admissions",
+  "question": "Question 1",
+  "year_labels": [
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "baseline_rule": "Average of 2018-19 and 2019-20 values",
+  "rows": [
+    {
+      "code": "I26-I28",
+      "description": "Pulmonary circulation disorders",
+      "full_description": "Pulmonary heart disease & diseases of pulmonary circulation",
+      "group": "Resilient / rising",
+      "baseline": 29840,
+      "years": {
+        "2018-19": {
+          "emergency": 29107,
+          "pct": -2.5
+        },
+        "2019-20": {
+          "emergency": 30573,
+          "pct": 2.5
+        },
+        "2020-21": {
+          "emergency": 34607,
+          "pct": 16.0
+        },
+        "2021-22": {
+          "emergency": 36418,
+          "pct": 22.0
+        },
+        "2022-23": {
+          "emergency": 35066,
+          "pct": 17.5
+        },
+        "2023-24": {
+          "emergency": 35857,
+          "pct": 20.2
+        }
+      }
+    },
+    {
+      "code": "I80-I89",
+      "description": "Veins & lymphatic disorders",
+      "full_description": "Diseases of veins & lymphatic system nec.",
+      "group": "Resilient / rising",
+      "baseline": 55666,
+      "years": {
+        "2018-19": {
+          "emergency": 41322,
+          "pct": -25.8
+        },
+        "2019-20": {
+          "emergency": 70009,
+          "pct": 25.8
+        },
+        "2020-21": {
+          "emergency": 64421,
+          "pct": 15.7
+        },
+        "2021-22": {
+          "emergency": 72061,
+          "pct": 29.5
+        },
+        "2022-23": {
+          "emergency": 71792,
+          "pct": 29.0
+        },
+        "2023-24": {
+          "emergency": 76981,
+          "pct": 38.3
+        }
+      }
+    },
+    {
+      "code": "K70-K77",
+      "description": "Diseases of liver",
+      "full_description": "Diseases of liver",
+      "group": "Resilient / rising",
+      "baseline": 25314,
+      "years": {
+        "2018-19": {
+          "emergency": 24885,
+          "pct": -1.7
+        },
+        "2019-20": {
+          "emergency": 25743,
+          "pct": 1.7
+        },
+        "2020-21": {
+          "emergency": 27623,
+          "pct": 9.1
+        },
+        "2021-22": {
+          "emergency": 30315,
+          "pct": 19.8
+        },
+        "2022-23": {
+          "emergency": 29931,
+          "pct": 18.2
+        },
+        "2023-24": {
+          "emergency": 30006,
+          "pct": 18.5
+        }
+      }
+    },
+    {
+      "code": "I10-I15",
+      "description": "Hypertensive diseases",
+      "full_description": "Hypertensive diseases",
+      "group": "Resilient / rising",
+      "baseline": 22014,
+      "years": {
+        "2018-19": {
+          "emergency": 20578,
+          "pct": -6.5
+        },
+        "2019-20": {
+          "emergency": 23451,
+          "pct": 6.5
+        },
+        "2020-21": {
+          "emergency": 23990,
+          "pct": 9.0
+        },
+        "2021-22": {
+          "emergency": 32088,
+          "pct": 45.8
+        },
+        "2022-23": {
+          "emergency": 33700,
+          "pct": 53.1
+        },
+        "2023-24": {
+          "emergency": 42508,
+          "pct": 93.1
+        }
+      }
+    },
+    {
+      "code": "J20-J22",
+      "description": "Acute lower respiratory infections",
+      "full_description": "Other acute lower respiratory infections",
+      "group": "Sharp declines",
+      "baseline": 178436,
+      "years": {
+        "2018-19": {
+          "emergency": 174923,
+          "pct": -2.0
+        },
+        "2019-20": {
+          "emergency": 181948,
+          "pct": 2.0
+        },
+        "2020-21": {
+          "emergency": 53819,
+          "pct": -69.8
+        },
+        "2021-22": {
+          "emergency": 136990,
+          "pct": -23.2
+        },
+        "2022-23": {
+          "emergency": 156188,
+          "pct": -12.5
+        },
+        "2023-24": {
+          "emergency": 179404,
+          "pct": 0.5
+        }
+      }
+    },
+    {
+      "code": "J00-J06",
+      "description": "Acute upper respiratory infections",
+      "full_description": "Acute upper respiratory infections",
+      "group": "Sharp declines",
+      "baseline": 137038,
+      "years": {
+        "2018-19": {
+          "emergency": 133084,
+          "pct": -2.9
+        },
+        "2019-20": {
+          "emergency": 140993,
+          "pct": 2.9
+        },
+        "2020-21": {
+          "emergency": 42419,
+          "pct": -69.0
+        },
+        "2021-22": {
+          "emergency": 98285,
+          "pct": -28.3
+        },
+        "2022-23": {
+          "emergency": 119706,
+          "pct": -12.6
+        },
+        "2023-24": {
+          "emergency": 108707,
+          "pct": -20.7
+        }
+      }
+    },
+    {
+      "code": "B25-B34",
+      "description": "Other viral diseases",
+      "full_description": "Other viral diseases",
+      "group": "Sharp declines",
+      "baseline": 111310,
+      "years": {
+        "2018-19": {
+          "emergency": 116893,
+          "pct": 5.0
+        },
+        "2019-20": {
+          "emergency": 105728,
+          "pct": -5.0
+        },
+        "2020-21": {
+          "emergency": 45958,
+          "pct": -58.7
+        },
+        "2021-22": {
+          "emergency": 96977,
+          "pct": -12.9
+        },
+        "2022-23": {
+          "emergency": 83090,
+          "pct": -25.4
+        },
+        "2023-24": {
+          "emergency": 85279,
+          "pct": -23.4
+        }
+      }
+    },
+    {
+      "code": "J09-J18",
+      "description": "Influenza & pneumonia",
+      "full_description": "Influenza & pneumonia",
+      "group": "Sharp declines",
+      "baseline": 290308,
+      "years": {
+        "2018-19": {
+          "emergency": 282503,
+          "pct": -2.7
+        },
+        "2019-20": {
+          "emergency": 298114,
+          "pct": 2.7
+        },
+        "2020-21": {
+          "emergency": 137083,
+          "pct": -52.8
+        },
+        "2021-22": {
+          "emergency": 184907,
+          "pct": -36.3
+        },
+        "2022-23": {
+          "emergency": 261695,
+          "pct": -9.9
+        },
+        "2023-24": {
+          "emergency": 284700,
+          "pct": -1.9
+        }
+      }
+    }
+  ]
+}

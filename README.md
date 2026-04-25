@@ -1,6 +1,6 @@
 #  Lockdown Dashboard
 
-Files used to build the dashboard for **COMP4037 Research Methods**, Question 1.
+Files used to build the dashboard for ** Research Methods**, Question 1.
 
 The dashboard compares selected NHS primary diagnosis summary groups across `2018-19` to `2023-24`. The main view is a time-series heatmap based on emergency admissions, with the pre-lockdown baseline defined as the average of `2018-19` and `2019-20`.
 
